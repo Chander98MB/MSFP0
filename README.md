@@ -4,7 +4,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Obregon Maldonado Alan Yahir [l23212221@tijuana.tecnm.mx]
+Arredondo Medina Zaid Alexander [l23212180@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
